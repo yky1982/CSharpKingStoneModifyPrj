@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingStoneModify", "KingStoneModify\KingStoneModify.csproj", "{542A42A2-7736-47D5-8816-8DA8F35DDA1E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{DBC2CD2F-396E-48B1-8986-004D40821368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.CD_ROM|x86.ActiveCfg = Release|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.CD_ROM|x86.Build.0 = Release|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.Debug|x86.ActiveCfg = Debug|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.Debug|x86.Build.0 = Debug|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.DVD-5|x86.ActiveCfg = Debug|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.DVD-5|x86.Build.0 = Debug|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.Release|x86.ActiveCfg = Release|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.Release|x86.Build.0 = Release|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.SingleImage|x86.ActiveCfg = Release|x86
+		{542A42A2-7736-47D5-8816-8DA8F35DDA1E}.SingleImage|x86.Build.0 = Release|x86
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.CD_ROM|x86.ActiveCfg = Release
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.CD_ROM|x86.Build.0 = Release
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.Debug|x86.ActiveCfg = Debug
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.Debug|x86.Build.0 = Debug
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.DVD-5|x86.ActiveCfg = Debug
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.DVD-5|x86.Build.0 = Debug
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.Release|x86.ActiveCfg = Release
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.Release|x86.Build.0 = Release
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.SingleImage|x86.ActiveCfg = Release
+		{DBC2CD2F-396E-48B1-8986-004D40821368}.SingleImage|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

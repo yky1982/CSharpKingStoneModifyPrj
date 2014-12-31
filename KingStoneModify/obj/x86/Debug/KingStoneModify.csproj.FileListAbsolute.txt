@@ -1,0 +1,37 @@
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.csproj.ResolveComReference.cache
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.BaseSetting_No1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.BaseSetting_No2.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.BaseSetting_No3.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.Bench_1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.Bench_2.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.Bench_3.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.CreateTestResult_No1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.CreateTestResult_No2.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.Form1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.Properties.Resources.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SelectHistoryData_No1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SelectHistoryData_No2.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SelectHistoryData_No3.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SettingForm_No1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SettingForm_No2.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SettingForm_No3.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.TestResultShow_No1.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.TestResultShow_No2.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.TestResultShow_No3.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.CreateTestResult_No3.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.BaseSetting_No4.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.Bench_4.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.CreateTestResult_No4.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SelectHistoryData_No4.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.SettingForm_No4.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.TestResultShow_No4.resources
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\bin\Debug\KingStoneModify.exe
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\bin\Debug\KingStoneModify.pdb
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.exe
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.pdb
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VS Project\C#Prj\KingStoneModify\KingStoneModify\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\工作文档\企业项目\江苏金石\软件源程序\最终版\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.csproj.ResolveComReference.cache
+E:\工作文档\企业项目\江苏金石\软件源程序\最终版\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.exe
+E:\工作文档\企业项目\江苏金石\软件源程序\最终版\KingStoneModify\KingStoneModify\obj\x86\Debug\KingStoneModify.pdb
